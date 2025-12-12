@@ -12,7 +12,8 @@ const Hero = () => {
             alignItems: 'center',
             position: 'relative',
             overflow: 'hidden',
-            paddingTop: '80px' // Offset for fixed header
+            paddingTop: '120px', // Offset for fixed header and extra spacing
+            paddingBottom: '60px'
         }}>
             {/* Background Glows */}
             <div style={{
