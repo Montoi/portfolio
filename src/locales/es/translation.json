@@ -1,0 +1,116 @@
+{
+    "nav": {
+        "about": "Sobre Mí",
+        "experience": "Experiencia",
+        "projects": "Proyectos",
+        "contact": "Contactar"
+    },
+    "hero": {
+        "role": "Ingeniero de Software",
+        "title_main": "Creando Soluciones",
+        "title_accent": "Futuristas.",
+        "description": "Especializado en arquitecturas escalables y experiencias de usuario inmersivas. Transformando código en impacto real.",
+        "btn_projects": "Ver Proyectos",
+        "btn_contact": "Contactar",
+        "social_label": "SOCIAL"
+    },
+    "about": {
+        "title": "Sobre",
+        "title_accent": "Mí",
+        "p1": "Soy <1>Ingeniero de Software</1> y <3>Líder Técnico</3> con más de 4 años de experiencia en el desarrollo, diseño e implementación de soluciones tecnológicas escalables. Mi trayectoria destaca por colaboraciones con entidades como el <7>Ministerio de Economía</7>, el <9>Ministerio de Hacienda</9> y el <11>Banco BHD</11>.",
+        "p2": "Me distingo por mi liderazgo colaborativo, comunicación efectiva y un enfoque orientado a resultados. He liderado proyectos de transformación digital garantizando soluciones seguras, sostenibles y centradas en el usuario.",
+        "skills": {
+            "leadership": "Liderazgo de Equipos",
+            "architecture": "Arquitectura de Software",
+            "scrum": "Metodologías Ágiles (Scrum)",
+            "security": "Seguridad & Innovación"
+        }
+    },
+    "experience": {
+        "title": "Experiencia",
+        "title_accent": "Laboral",
+        "items": [
+            {
+                "role": "Desarrollador Full Stack y Líder de Equipo",
+                "company": "Ministerio de Hacienda y Economía",
+                "period": "Marzo 2023 - Actualidad",
+                "description": [
+                    "Lideré el desarrollo de aplicaciones de pila completa para sistemas institucionales estratégicos.",
+                    "Diseñé y optimicé la lógica de negocio y APIs, reduciendo la latencia en un 30%.",
+                    "Dirigí equipos bajo metodologías ágiles (Scrum), promoviendo calidad de código.",
+                    "Mentoria a desarrolladores junior."
+                ]
+            },
+            {
+                "role": "Desarrollador Full Stack",
+                "company": "Banco BHD",
+                "period": "Octubre 2024 - Septiembre 2025",
+                "description": [
+                    "Desarrollo y mantenimiento de nuevas vistas para el portal corporativo.",
+                    "Optimización de código y rendimiento general de la aplicación.",
+                    "Colaboración estrecha con equipos de diseño, QA y backend."
+                ]
+            },
+            {
+                "role": "Power Platform Developer",
+                "company": "Solvex Dominicana",
+                "period": "Julio 2022 - Enero 2023",
+                "description": [
+                    "Diseño de soluciones empresariales con Power BI, Power Apps y Power Automate.",
+                    "Automatización de más de 15 procesos manuales, ahorrando 20+ horas semanales.",
+                    "Implementación de dashboards interactivos."
+                ]
+            },
+            {
+                "role": "Desarrollador Móvil",
+                "company": "Lancer Group",
+                "period": "Junio 2022 - Enero 2023",
+                "description": [
+                    "Desarrollo de aplicaciones móviles multiplataforma (Flutter/Ionic).",
+                    "Incremento del 25% en la interacción de usuarios mediante mejoras de UX/UI."
+                ]
+            }
+        ]
+    },
+    "skills": {
+        "title": "Habilidades",
+        "title_accent": "Técnicas",
+        "categories": {
+            "Frontend": "Frontend",
+            "Backend": "Backend",
+            "Database": "Base de Datos",
+            "Mobile": "Móvil",
+            "DevOps & Tools": "DevOps y Herramientas"
+        }
+    },
+    "projects": {
+        "title": "Proyectos",
+        "title_accent": "Destacados",
+        "demo": "Demo",
+        "code": "Código",
+        "items": [
+            {
+                "title": "Portal Corporativo Banco BHD",
+                "description": "Renovación completa de la interfaz de usuario del portal corporativo, mejorando la accesibilidad y reduciendo los tiempos de carga en un 20%."
+            },
+            {
+                "title": "Sistema Institucional Hacienda",
+                "description": "Plataforma integral para la gestión de procesos gubernamentales, optimizando flujos de trabajo interdepartamentales."
+            },
+            {
+                "title": "Dashboard de Gestión Empresarial",
+                "description": "Solución de inteligencia de negocios y automatización de procesos para optimize la toma de decisiones basada en datos."
+            },
+            {
+                "title": "App Móvil Multiplataforma",
+                "description": "Aplicación móvil para servicios al cliente con enfoque en rendimiento y experiencia de usuario fluida en iOS y Android."
+            }
+        ]
+    },
+    "contact": {
+        "title": "¿Listo para",
+        "title_accent": "Crear Impacto?",
+        "description": "Siempre estoy buscando nuevos retos y oportunidades para colaborar en proyectos innovadores. Si tienes una idea o necesitas elevar tu infraestructura tecnológica, hablemos.",
+        "btn_contact": "Contactar Ahora"
+    }
+}

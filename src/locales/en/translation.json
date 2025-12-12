@@ -1,0 +1,116 @@
+{
+    "nav": {
+        "about": "About Me",
+        "experience": "Experience",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "hero": {
+        "role": "Software Engineer",
+        "title_main": "Building Solutions",
+        "title_accent": "For the Future.",
+        "description": "Specialized in scalable architectures and immersive user experiences. Transforming code into real impact.",
+        "btn_projects": "View Projects",
+        "btn_contact": "Contact",
+        "social_label": "SOCIAL"
+    },
+    "about": {
+        "title": "About",
+        "title_accent": "Me",
+        "p1": "I am a <1>Software Engineer</1> and <3>Tech Lead</3> with over 4 years of experience in developing, designing, and implementing scalable technological solutions. My track record includes collaborations with entities such as the <7>Ministry of Economy</7>, the <9>Ministry of Finance</9>, and <11>Banco BHD</11>.",
+        "p2": "I distinguish myself through collaborative leadership, effective communication, and a results-oriented approach. I have led digital transformation projects ensuring secure, sustainable, and user-centric solutions.",
+        "skills": {
+            "leadership": "Team Leadership",
+            "architecture": "Software Architecture",
+            "scrum": "Agile Methodologies (Scrum)",
+            "security": "Security & Innovation"
+        }
+    },
+    "experience": {
+        "title": "Work",
+        "title_accent": "Experience",
+        "items": [
+            {
+                "role": "Full Stack Developer & Team Lead",
+                "company": "Ministry of Finance and Economy",
+                "period": "March 2023 - Present",
+                "description": [
+                    "Led full-stack application development for strategic institutional systems.",
+                    "Designed and optimized business logic and APIs, reducing latency by 30%.",
+                    "Directed teams under agile methodologies (Scrum), promoting code quality.",
+                    "Mentored junior developers."
+                ]
+            },
+            {
+                "role": "Full Stack Developer",
+                "company": "Banco BHD",
+                "period": "October 2024 - September 2025",
+                "description": [
+                    "Developed and maintained new views for the corporate portal.",
+                    "Optimized code and overall application performance.",
+                    "Collaborated closely with design, QA, and backend teams."
+                ]
+            },
+            {
+                "role": "Power Platform Developer",
+                "company": "Solvex Dominicana",
+                "period": "July 2022 - January 2023",
+                "description": [
+                    "Designed enterprise solutions with Power BI, Power Apps, and Power Automate.",
+                    "Automated over 15 manual processes, saving 20+ hours weekly.",
+                    "Implemented interactive dashboards."
+                ]
+            },
+            {
+                "role": "Mobile Developer",
+                "company": "Lancer Group",
+                "period": "June 2022 - January 2023",
+                "description": [
+                    "Developed cross-platform mobile applications (Flutter/Ionic).",
+                    "Increased user interaction by 25% through UX/UI improvements."
+                ]
+            }
+        ]
+    },
+    "skills": {
+        "title": "Technical",
+        "title_accent": "Skills",
+        "categories": {
+            "Frontend": "Frontend",
+            "Backend": "Backend",
+            "Database": "Database",
+            "Mobile": "Mobile",
+            "DevOps & Tools": "DevOps & Tools"
+        }
+    },
+    "projects": {
+        "title": "Featured",
+        "title_accent": "Projects",
+        "demo": "Demo",
+        "code": "Code",
+        "items": [
+            {
+                "title": "Banco BHD Corporate Portal",
+                "description": "Complete renovation of the corporate portal UI, improving accessibility and reducing load times by 20%."
+            },
+            {
+                "title": "Institutional Finance System",
+                "description": "Comprehensive platform for managing government processes, optimizing interdepartmental workflows."
+            },
+            {
+                "title": "Business Management Dashboard",
+                "description": "Business intelligence and process automation solution to optimize data-driven decision making."
+            },
+            {
+                "title": "Cross-Platform Mobile App",
+                "description": "Mobile application for customer services focused on performance and fluid user experience on iOS and Android."
+            }
+        ]
+    },
+    "contact": {
+        "title": "Ready for",
+        "title_accent": "Impact?",
+        "description": "I am always looking for new challenges and opportunities to collaborate on innovative projects. If you have an idea or need to elevate your tech infrastructure, let's talk.",
+        "btn_contact": "Contact Now"
+    }
+}

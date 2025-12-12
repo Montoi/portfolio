@@ -1,0 +1,90 @@
+:root {
+  /* Striking Dark Theme Palette */
+  --bg-primary: #0a0a0a;
+  --bg-secondary: #121212;
+  --bg-tertiary: #1e1e1e;
+  --bg-glass: rgba(18, 18, 18, 0.8);
+
+  --text-primary: #ffffff;
+  --text-secondary: #e0e0e0;
+  --text-muted: #a0a0a0;
+
+  /* Accents - Neon Orange & Cyan */
+  --accent: #ff3d00;
+  /* Neon Orange */
+  --accent-light: #ff7539;
+  --accent-glow: 0 0 20px rgba(255, 61, 0, 0.5);
+
+  --secondary-accent: #00e5ff;
+  /* Cyan */
+  --secondary-glow: 0 0 20px rgba(0, 229, 255, 0.5);
+
+  /* Gradients */
+  --gradient-accent: linear-gradient(135deg, #ff3d00 0%, #d500f9 100%);
+  /* Orange to Purple */
+  --gradient-dark: linear-gradient(180deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+  --gradient-glass: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+  --gradient-text: linear-gradient(to right, #ff3d00, #d500f9);
+
+  /* Typography */
+  --font-main: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-heading: 'Outfit', sans-serif;
+
+  /* Spacing */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 2rem;
+  --spacing-lg: 4rem;
+  --spacing-xl: 8rem;
+
+  /* Borders & Radius */
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-full: 9999px;
+
+  --border-light: 1px solid rgba(255, 255, 255, 0.1);
+  --border-accent: 1px solid rgba(255, 61, 0, 0.3);
+
+  /* Transitions */
+  --transition-fast: 0.2s ease;
+  --transition-smooth: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Shadows */
+  --shadow-sm: 0 4px 6px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.5);
+  --shadow-neon: 0 0 15px rgba(255, 61, 0, 0.3), 0 0 30px rgba(255, 61, 0, 0.1);
+}
+
+[data-theme='light'] {
+  /* Premium Light Theme Palette */
+  --bg-primary: #f8f9fa;
+  --bg-secondary: #ffffff;
+  --bg-tertiary: #f1f3f5;
+  --bg-glass: rgba(255, 255, 255, 0.85);
+
+  --text-primary: #1a1a1a;
+  --text-secondary: #4a4a4a;
+  --text-muted: #6c757d;
+
+  /* Accents - Retain Neon/Vibrant feel but adapted for light */
+  --accent: #ff3d00;
+  --accent-light: #ff6e40;
+  --accent-glow: 0 0 20px rgba(255, 61, 0, 0.25);
+
+  --secondary-accent: #00bcd4;
+  --secondary-glow: 0 0 20px rgba(0, 188, 212, 0.25);
+
+  /* Gradients */
+  --gradient-dark: linear-gradient(180deg, #f8f9fa 0%, #e9ecef 100%);
+  --gradient-glass: linear-gradient(135deg, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.4));
+
+  /* Borders */
+  --border-light: 1px solid rgba(0, 0, 0, 0.08);
+  --border-accent: 1px solid rgba(255, 61, 0, 0.15);
+
+  /* Shadows */
+  --shadow-sm: 0 4px 6px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.1);
+  --shadow-neon: 0 0 15px rgba(255, 61, 0, 0.15), 0 0 20px rgba(255, 61, 0, 0.05);
+}
